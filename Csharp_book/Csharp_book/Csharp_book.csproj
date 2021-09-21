@@ -7,11 +7,26 @@
 
   <ItemGroup>
     <Compile Remove="CharStruct.cs" />
+    <Compile Remove="ConsoleColorDemo.cs" />
+    <Compile Remove="EnumAnimal.cs" />
+    <Compile Remove="EnumerationDemo.cs" />
+    <Compile Remove="EnumGetNames.cs" />
+    <Compile Remove="EnumIndex.cs" />
+    <Compile Remove="EnumSwitch.cs" />
     <Compile Remove="GuidDemo.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="EnumGetNames.cs" />
+    <None Include="EnumSwitch.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="CharStruct.cs" />
+    <None Include="ConsoleColorDemo.cs" />
+    <None Include="EnumAnimal.cs" />
+    <None Include="EnumerationDemo.cs" />
+    <None Include="EnumIndex.cs" />
     <None Include="GuidDemo.cs" />
   </ItemGroup>
 
