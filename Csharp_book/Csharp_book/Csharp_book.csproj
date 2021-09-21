@@ -5,4 +5,14 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="CharStruct.cs" />
+    <Compile Remove="GuidDemo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="CharStruct.cs" />
+    <None Include="GuidDemo.cs" />
+  </ItemGroup>
+
 </Project>
