@@ -6,15 +6,27 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ClassAndMember.cs" />
     <Compile Remove="ClassDescription.cs" />
     <Compile Remove="ClassNote.cs" />
+    <Compile Remove="EnvironmentExit.cs" />
     <Compile Remove="MyFirstClass_Static유무.cs" />
+    <Compile Remove="ProcessStartDemo.cs" />
+    <Compile Remove="RandomClassDemo_로또.cs" />
+    <Compile Remove="RandomDemo.cs" />
+    <Compile Remove="RockPaperScissors_가위바위보게임.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="ClassAndMember.cs" />
     <None Include="ClassDescription.cs" />
     <None Include="ClassNote.cs" />
+    <None Include="EnvironmentExit.cs" />
     <None Include="MyFirstClass_Static유무.cs" />
+    <None Include="ProcessStartDemo.cs" />
+    <None Include="RandomClassDemo_로또.cs" />
+    <None Include="RandomDemo.cs" />
+    <None Include="RockPaperScissors_가위바위보게임.cs" />
   </ItemGroup>
 
 </Project>
