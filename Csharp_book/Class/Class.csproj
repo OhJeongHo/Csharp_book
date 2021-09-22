@@ -5,4 +5,16 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="ClassDescription.cs" />
+    <Compile Remove="ClassNote.cs" />
+    <Compile Remove="MyFirstClass_Static유무.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ClassDescription.cs" />
+    <None Include="ClassNote.cs" />
+    <None Include="MyFirstClass_Static유무.cs" />
+  </ItemGroup>
+
 </Project>
