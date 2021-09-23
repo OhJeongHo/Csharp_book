@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -9,12 +9,14 @@
     <Compile Remove="01.Intro.cs" />
     <Compile Remove="02.StringBuilderDemo.cs" />
     <Compile Remove="03.StringPerformance.cs" />
+    <Compile Remove="04.StringBuilderPerformance.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="01.Intro.cs" />
     <None Include="02.StringBuilderDemo.cs" />
     <None Include="03.StringPerformance.cs" />
+    <None Include="04.StringBuilderPerformance.cs" />
   </ItemGroup>
 
 </Project>
