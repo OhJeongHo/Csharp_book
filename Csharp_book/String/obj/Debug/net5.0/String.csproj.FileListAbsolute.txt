@@ -1,0 +1,16 @@
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\obj\Debug\net5.0\String.csprojAssemblyReference.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\obj\Debug\net5.0\String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\obj\Debug\net5.0\String.AssemblyInfoInputs.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\obj\Debug\net5.0\String.AssemblyInfo.cs
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\obj\Debug\net5.0\String.csproj.CoreCompileInputs.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\bin\Debug\net5.0\String.exe
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\bin\Debug\net5.0\String.deps.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\bin\Debug\net5.0\String.runtimeconfig.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\bin\Debug\net5.0\String.runtimeconfig.dev.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\bin\Debug\net5.0\String.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\bin\Debug\net5.0\ref\String.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\bin\Debug\net5.0\String.pdb
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\obj\Debug\net5.0\String.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\obj\Debug\net5.0\ref\String.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\obj\Debug\net5.0\String.pdb
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\String\obj\Debug\net5.0\String.genruntimeconfig.cache
