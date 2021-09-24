@@ -9,12 +9,22 @@
     <Compile Remove="01.Info.cs" />
     <Compile Remove="02.ArrayClass.cs" />
     <Compile Remove="03.CollectionClass.cs" />
+    <Compile Remove="04.StackClass.cs" />
+    <Compile Remove="05.StackNote.cs" />
+    <Compile Remove="06.StackClassPeek.cs" />
+    <Compile Remove="07.QueueClass.cs" />
+    <Compile Remove="08.ArrayList.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="01.Info.cs" />
     <None Include="02.ArrayClass.cs" />
     <None Include="03.CollectionClass.cs" />
+    <None Include="04.StackClass.cs" />
+    <None Include="05.StackNote.cs" />
+    <None Include="06.StackClassPeek.cs" />
+    <None Include="07.QueueClass.cs" />
+    <None Include="08.ArrayList.cs" />
   </ItemGroup>
 
 </Project>
