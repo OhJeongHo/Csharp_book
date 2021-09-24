@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp_book", "Csharp_book\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class", "Class\Class.csproj", "{F0BE482B-930C-4ED6-9042-BE6D8CAC5818}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{0215B477-2DBF-40F2-929E-8D7CE60267FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String", "String\String.csproj", "{0215B477-2DBF-40F2-929E-8D7CE60267FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_handling", "TryCatch\Exception_handling.csproj", "{B93C1056-729F-4A91-9BBD-3189F0B05976}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{0215B477-2DBF-40F2-929E-8D7CE60267FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0215B477-2DBF-40F2-929E-8D7CE60267FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0215B477-2DBF-40F2-929E-8D7CE60267FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B93C1056-729F-4A91-9BBD-3189F0B05976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93C1056-729F-4A91-9BBD-3189F0B05976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93C1056-729F-4A91-9BBD-3189F0B05976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93C1056-729F-4A91-9BBD-3189F0B05976}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

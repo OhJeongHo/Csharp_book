@@ -17,7 +17,7 @@ namespace String
 
             DateTime end = DateTime.Now;
             Double exec = (end - start).TotalMilliseconds;
-            Console.WriteLine(exec);
+            Console.WriteLine(exec);2
         }
     }
 }

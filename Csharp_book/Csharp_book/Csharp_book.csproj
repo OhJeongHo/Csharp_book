@@ -12,12 +12,14 @@
     <Compile Remove="EnumerationDemo.cs" />
     <Compile Remove="EnumGetNames.cs" />
     <Compile Remove="EnumIndex.cs" />
+    <Compile Remove="EnumParse.cs" />
     <Compile Remove="EnumSwitch.cs" />
     <Compile Remove="GuidDemo.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="EnumGetNames.cs" />
+    <None Include="EnumParse.cs" />
     <None Include="EnumSwitch.cs" />
   </ItemGroup>
 
