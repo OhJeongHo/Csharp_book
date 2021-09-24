@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -17,6 +17,7 @@
     <Compile Remove="08.TryCatchFinallyDemo3.cs" />
     <Compile Remove="09.TryCatchFinallyDemo4.cs" />
     <Compile Remove="10.TryFinallyDemo.cs" />
+    <Compile Remove="11.ExceptionHandling.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -30,6 +31,7 @@
     <None Include="08.TryCatchFinallyDemo3.cs" />
     <None Include="09.TryCatchFinallyDemo4.cs" />
     <None Include="10.TryFinallyDemo.cs" />
+    <None Include="11.ExceptionHandling.cs" />
   </ItemGroup>
 
 </Project>
