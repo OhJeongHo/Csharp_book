@@ -14,6 +14,7 @@
     <Compile Remove="06.StackClassPeek.cs" />
     <Compile Remove="07.QueueClass.cs" />
     <Compile Remove="08.ArrayList.cs" />
+    <Compile Remove="09.Hashtable.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,6 +26,7 @@
     <None Include="06.StackClassPeek.cs" />
     <None Include="07.QueueClass.cs" />
     <None Include="08.ArrayList.cs" />
+    <None Include="09.Hashtable.cs" />
   </ItemGroup>
 
 </Project>

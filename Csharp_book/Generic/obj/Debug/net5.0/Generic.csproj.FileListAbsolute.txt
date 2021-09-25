@@ -1,0 +1,15 @@
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\bin\Debug\net5.0\Generic.exe
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\bin\Debug\net5.0\Generic.deps.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\bin\Debug\net5.0\Generic.runtimeconfig.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\bin\Debug\net5.0\Generic.runtimeconfig.dev.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\bin\Debug\net5.0\Generic.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\bin\Debug\net5.0\ref\Generic.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\bin\Debug\net5.0\Generic.pdb
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\obj\Debug\net5.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\obj\Debug\net5.0\Generic.AssemblyInfoInputs.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\obj\Debug\net5.0\Generic.AssemblyInfo.cs
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\obj\Debug\net5.0\Generic.csproj.CoreCompileInputs.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\obj\Debug\net5.0\Generic.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\obj\Debug\net5.0\ref\Generic.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\obj\Debug\net5.0\Generic.pdb
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Generic\obj\Debug\net5.0\Generic.genruntimeconfig.cache
