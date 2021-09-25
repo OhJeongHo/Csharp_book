@@ -11,6 +11,7 @@
     <Compile Remove="03.ListofTGeneric.cs" />
     <Compile Remove="04.ListofTGeneric2.cs" />
     <Compile Remove="05.EnumerableDemo.cs" />
+    <Compile Remove="06.DictionaryofTGeneric.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -19,6 +20,7 @@
     <None Include="03.ListofTGeneric.cs" />
     <None Include="04.ListofTGeneric2.cs" />
     <None Include="05.EnumerableDemo.cs" />
+    <None Include="06.DictionaryofTGeneric.cs" />
   </ItemGroup>
 
 </Project>
