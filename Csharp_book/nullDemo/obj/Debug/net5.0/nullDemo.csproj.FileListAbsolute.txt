@@ -13,3 +13,4 @@ C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\nullDemo\obj\Debug\net5
 C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\nullDemo\obj\Debug\net5.0\ref\nullDemo.dll
 C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\nullDemo\obj\Debug\net5.0\nullDemo.pdb
 C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\nullDemo\obj\Debug\net5.0\nullDemo.genruntimeconfig.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\nullDemo\obj\Debug\net5.0\nullDemo.csprojAssemblyReference.cache

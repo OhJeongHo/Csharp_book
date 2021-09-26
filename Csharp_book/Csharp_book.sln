@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception_handling", "TryCa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collection", "Collection\Collection.csproj", "{26B9F41B-3895-4C4F-AAF6-19B5475374E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{1B5F205D-F928-4AB5-8383-210B57D9671C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic", "Generic\Generic.csproj", "{1B5F205D-F928-4AB5-8383-210B57D9671C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nullDemo", "nullDemo\nullDemo.csproj", "{23FDAA1B-B240-41B2-99BB-233EDC31E85C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nullDemo", "nullDemo\nullDemo.csproj", "{23FDAA1B-B240-41B2-99BB-233EDC31E85C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{C1C3753F-57A2-49C4-9AD0-A6F4D8A108C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{23FDAA1B-B240-41B2-99BB-233EDC31E85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23FDAA1B-B240-41B2-99BB-233EDC31E85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23FDAA1B-B240-41B2-99BB-233EDC31E85C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C3753F-57A2-49C4-9AD0-A6F4D8A108C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C3753F-57A2-49C4-9AD0-A6F4D8A108C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C3753F-57A2-49C4-9AD0-A6F4D8A108C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C3753F-57A2-49C4-9AD0-A6F4D8A108C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
