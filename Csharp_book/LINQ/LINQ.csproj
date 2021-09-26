@@ -18,6 +18,9 @@
     <Compile Remove="10.Filter.cs" />
     <Compile Remove="11.CountFunc.cs" />
     <Compile Remove="12.AllAndAny.cs" />
+    <Compile Remove="13.TakeAndSkipAndDistinct.cs" />
+    <Compile Remove="14.Orderby.cs" />
+    <Compile Remove="15.Single.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -33,6 +36,9 @@
     <None Include="10.Filter.cs" />
     <None Include="11.CountFunc.cs" />
     <None Include="12.AllAndAny.cs" />
+    <None Include="13.TakeAndSkipAndDistinct.cs" />
+    <None Include="14.Orderby.cs" />
+    <None Include="15.Single.cs" />
   </ItemGroup>
 
 </Project>
