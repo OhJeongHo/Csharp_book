@@ -26,6 +26,7 @@
     <Compile Remove="18.FromWhereSelect.cs" />
     <Compile Remove="19.LinqQuerySyntax.cs" />
     <Compile Remove="20.Map.cs" />
+    <Compile Remove="21.ForEach.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -49,6 +50,7 @@
     <None Include="18.FromWhereSelect.cs" />
     <None Include="19.LinqQuerySyntax.cs" />
     <None Include="20.Map.cs" />
+    <None Include="21.ForEach.cs" />
   </ItemGroup>
 
 </Project>
