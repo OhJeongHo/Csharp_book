@@ -21,6 +21,11 @@
     <Compile Remove="13.TakeAndSkipAndDistinct.cs" />
     <Compile Remove="14.Orderby.cs" />
     <Compile Remove="15.Single.cs" />
+    <Compile Remove="16.First.cs" />
+    <Compile Remove="17.MethodAndQuery.cs" />
+    <Compile Remove="18.FromWhereSelect.cs" />
+    <Compile Remove="19.LinqQuerySyntax.cs" />
+    <Compile Remove="20.Map.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -39,6 +44,11 @@
     <None Include="13.TakeAndSkipAndDistinct.cs" />
     <None Include="14.Orderby.cs" />
     <None Include="15.Single.cs" />
+    <None Include="16.First.cs" />
+    <None Include="17.MethodAndQuery.cs" />
+    <None Include="18.FromWhereSelect.cs" />
+    <None Include="19.LinqQuerySyntax.cs" />
+    <None Include="20.Map.cs" />
   </ItemGroup>
 
 </Project>
