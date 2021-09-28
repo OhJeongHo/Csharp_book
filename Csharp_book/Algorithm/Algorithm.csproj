@@ -14,6 +14,7 @@
     <Compile Remove="06.MinAlgorithm.cs" />
     <Compile Remove="07.NearAlgorithm.cs" />
     <Compile Remove="08.NearAll.cs" />
+    <Compile Remove="09.RankAlgorithm.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,6 +26,7 @@
     <None Include="06.MinAlgorithm.cs" />
     <None Include="07.NearAlgorithm.cs" />
     <None Include="08.NearAll.cs" />
+    <None Include="09.RankAlgorithm.cs" />
   </ItemGroup>
 
 </Project>
