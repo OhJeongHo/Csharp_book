@@ -15,6 +15,11 @@
     <Compile Remove="07.NearAlgorithm.cs" />
     <Compile Remove="08.NearAll.cs" />
     <Compile Remove="09.RankAlgorithm.cs" />
+    <Compile Remove="10.SortInfo.cs" />
+    <Compile Remove="11.SortAlgorithm.cs" />
+    <Compile Remove="12.SEARCHinfo.cs" />
+    <Compile Remove="13.SearchAlgorithm.cs" />
+    <Compile Remove="14.MergeAlgorithm.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -27,6 +32,11 @@
     <None Include="07.NearAlgorithm.cs" />
     <None Include="08.NearAll.cs" />
     <None Include="09.RankAlgorithm.cs" />
+    <None Include="10.SortInfo.cs" />
+    <None Include="11.SortAlgorithm.cs" />
+    <None Include="12.SEARCHinfo.cs" />
+    <None Include="13.SearchAlgorithm.cs" />
+    <None Include="14.MergeAlgorithm.cs" />
   </ItemGroup>
 
 </Project>
