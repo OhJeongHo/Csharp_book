@@ -20,6 +20,7 @@
     <Compile Remove="12.SEARCHinfo.cs" />
     <Compile Remove="13.SearchAlgorithm.cs" />
     <Compile Remove="14.MergeAlgorithm.cs" />
+    <Compile Remove="15.ModeAlgorighm.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -37,6 +38,7 @@
     <None Include="12.SEARCHinfo.cs" />
     <None Include="13.SearchAlgorithm.cs" />
     <None Include="14.MergeAlgorithm.cs" />
+    <None Include="15.ModeAlgorighm.cs" />
   </ItemGroup>
 
 </Project>
