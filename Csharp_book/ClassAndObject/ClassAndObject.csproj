@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01.Info.cs" />
+    <Compile Remove="02-2.Instance.cs" />
+    <Compile Remove="02.ObjectNote.cs" />
+    <Compile Remove="03.anonymoustype.cs" />
+    <Compile Remove="04.staticAndInstance.cs" />
+    <Compile Remove="05.ClassOne.cs" />
+    <Compile Remove="06.ClassTwo.cs" />
+    <Compile Remove="07.ClassDemo.cs" />
+    <Compile Remove="09.ToStringMethod.cs" />
+    <Compile Remove="10.ClassArray.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01.Info.cs" />
+    <None Include="02-2.Instance.cs" />
+    <None Include="02.ObjectNote.cs" />
+    <None Include="03.anonymoustype.cs" />
+    <None Include="04.staticAndInstance.cs" />
+    <None Include="05.ClassOne.cs" />
+    <None Include="06.ClassTwo.cs" />
+    <None Include="07.ClassDemo.cs" />
+    <None Include="09.ToStringMethod.cs" />
+    <None Include="10.ClassArray.cs" />
+  </ItemGroup>
+
+</Project>
