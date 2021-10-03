@@ -1,0 +1,15 @@
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\bin\Debug\net5.0\Namespace.exe
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\bin\Debug\net5.0\Namespace.deps.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\bin\Debug\net5.0\Namespace.runtimeconfig.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\bin\Debug\net5.0\Namespace.runtimeconfig.dev.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\bin\Debug\net5.0\Namespace.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\bin\Debug\net5.0\ref\Namespace.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\bin\Debug\net5.0\Namespace.pdb
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\obj\Debug\net5.0\Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\obj\Debug\net5.0\Namespace.AssemblyInfoInputs.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\obj\Debug\net5.0\Namespace.AssemblyInfo.cs
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\obj\Debug\net5.0\Namespace.csproj.CoreCompileInputs.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\obj\Debug\net5.0\Namespace.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\obj\Debug\net5.0\ref\Namespace.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\obj\Debug\net5.0\Namespace.pdb
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Namespace\obj\Debug\net5.0\Namespace.genruntimeconfig.cache

@@ -16,6 +16,7 @@
     <Compile Remove="07.ClassDemo.cs" />
     <Compile Remove="09.ToStringMethod.cs" />
     <Compile Remove="10.ClassArray.cs" />
+    <Compile Remove="11.VarInstance.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -29,6 +30,7 @@
     <None Include="07.ClassDemo.cs" />
     <None Include="09.ToStringMethod.cs" />
     <None Include="10.ClassArray.cs" />
+    <None Include="11.VarInstance.cs" />
   </ItemGroup>
 
 </Project>
