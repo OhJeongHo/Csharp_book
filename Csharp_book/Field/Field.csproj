@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01.Info.cs" />
+    <Compile Remove="02.LoaclVariable.cs" />
+    <Compile Remove="03.VariableScope.cs" />
+    <Compile Remove="04.KindOfField.cs" />
+    <Compile Remove="05FieldInitializer.cs" />
+    <Compile Remove="06.FieldArray.cs" />
+    <Compile Remove="07.PublicField.cs" />
+    <Compile Remove="08.PublicPrivate.cs" />
+    <Compile Remove="09.FieldDemo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01.Info.cs" />
+    <None Include="02.LoaclVariable.cs" />
+    <None Include="03.VariableScope.cs" />
+    <None Include="04.KindOfField.cs" />
+    <None Include="05FieldInitializer.cs" />
+    <None Include="06.FieldArray.cs" />
+    <None Include="07.PublicField.cs" />
+    <None Include="08.PublicPrivate.cs" />
+    <None Include="09.FieldDemo.cs" />
+  </ItemGroup>
+
+</Project>

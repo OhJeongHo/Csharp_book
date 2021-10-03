@@ -1,0 +1,15 @@
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\obj\Debug\net5.0\Field.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\obj\Debug\net5.0\Field.AssemblyInfoInputs.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\obj\Debug\net5.0\Field.AssemblyInfo.cs
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\obj\Debug\net5.0\Field.csproj.CoreCompileInputs.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\bin\Debug\net5.0\Field.exe
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\bin\Debug\net5.0\Field.deps.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\bin\Debug\net5.0\Field.runtimeconfig.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\bin\Debug\net5.0\Field.runtimeconfig.dev.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\bin\Debug\net5.0\Field.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\bin\Debug\net5.0\ref\Field.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\bin\Debug\net5.0\Field.pdb
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\obj\Debug\net5.0\Field.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\obj\Debug\net5.0\ref\Field.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\obj\Debug\net5.0\Field.pdb
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\Field\obj\Debug\net5.0\Field.genruntimeconfig.cache
