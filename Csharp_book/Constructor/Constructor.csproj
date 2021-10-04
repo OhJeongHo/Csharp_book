@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01.Info.cs" />
+    <Compile Remove="02.ConstructorDemo.cs" />
+    <Compile Remove="03.ConstructorMethod.cs" />
+    <Compile Remove="04.ConstructorParameter.cs" />
+    <Compile Remove="05.ConstructorParameter2.cs" />
+    <Compile Remove="06.Circle.cs" />
+    <Compile Remove="07.ConstructorOverload.cs" />
+    <Compile Remove="08.FieldAndConstructorAndMethod.cs" />
+    <Compile Remove="09.ConstructorAll.cs" />
+    <Compile Remove="10.This.cs" />
+    <Compile Remove="11.Forwarding.cs" />
+    <Compile Remove="12.Readonly.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01.Info.cs" />
+    <None Include="02.ConstructorDemo.cs" />
+    <None Include="03.ConstructorMethod.cs" />
+    <None Include="04.ConstructorParameter.cs" />
+    <None Include="05.ConstructorParameter2.cs" />
+    <None Include="06.Circle.cs" />
+    <None Include="07.ConstructorOverload.cs" />
+    <None Include="08.FieldAndConstructorAndMethod.cs" />
+    <None Include="09.ConstructorAll.cs" />
+    <None Include="10.This.cs" />
+    <None Include="11.Forwarding.cs" />
+    <None Include="12.Readonly.cs" />
+  </ItemGroup>
+
+</Project>
