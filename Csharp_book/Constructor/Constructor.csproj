@@ -18,6 +18,7 @@
     <Compile Remove="10.This.cs" />
     <Compile Remove="11.Forwarding.cs" />
     <Compile Remove="12.Readonly.cs" />
+    <Compile Remove="13.ExpressionBodiedConstructor.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -33,6 +34,7 @@
     <None Include="10.This.cs" />
     <None Include="11.Forwarding.cs" />
     <None Include="12.Readonly.cs" />
+    <None Include="13.ExpressionBodiedConstructor.cs" />
   </ItemGroup>
 
 </Project>

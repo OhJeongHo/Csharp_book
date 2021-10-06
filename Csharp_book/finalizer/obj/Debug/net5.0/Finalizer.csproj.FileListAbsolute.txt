@@ -1,0 +1,16 @@
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\bin\Debug\net5.0\Finalizer.exe
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\bin\Debug\net5.0\Finalizer.deps.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\bin\Debug\net5.0\Finalizer.runtimeconfig.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\bin\Debug\net5.0\Finalizer.runtimeconfig.dev.json
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\bin\Debug\net5.0\Finalizer.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\bin\Debug\net5.0\ref\Finalizer.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\bin\Debug\net5.0\Finalizer.pdb
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\obj\Debug\net5.0\Finalizer.csprojAssemblyReference.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\obj\Debug\net5.0\Finalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\obj\Debug\net5.0\Finalizer.AssemblyInfoInputs.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\obj\Debug\net5.0\Finalizer.AssemblyInfo.cs
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\obj\Debug\net5.0\Finalizer.csproj.CoreCompileInputs.cache
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\obj\Debug\net5.0\Finalizer.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\obj\Debug\net5.0\ref\Finalizer.dll
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\obj\Debug\net5.0\Finalizer.pdb
+C:\Users\FX516\Documents\GitHub\Csharp_Study\Csharp_book\finalizer\obj\Debug\net5.0\Finalizer.genruntimeconfig.cache
