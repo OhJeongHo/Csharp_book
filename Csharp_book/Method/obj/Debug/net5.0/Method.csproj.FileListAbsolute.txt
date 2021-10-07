@@ -1,0 +1,16 @@
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\bin\Debug\net5.0\Method.exe
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\bin\Debug\net5.0\Method.deps.json
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\bin\Debug\net5.0\Method.runtimeconfig.json
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\bin\Debug\net5.0\Method.runtimeconfig.dev.json
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\bin\Debug\net5.0\Method.dll
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\bin\Debug\net5.0\ref\Method.dll
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\bin\Debug\net5.0\Method.pdb
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\obj\Debug\net5.0\Method.csproj.AssemblyReference.cache
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\obj\Debug\net5.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\obj\Debug\net5.0\Method.AssemblyInfoInputs.cache
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\obj\Debug\net5.0\Method.AssemblyInfo.cs
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\obj\Debug\net5.0\Method.csproj.CoreCompileInputs.cache
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\obj\Debug\net5.0\Method.dll
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\obj\Debug\net5.0\ref\Method.dll
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\obj\Debug\net5.0\Method.pdb
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Method\obj\Debug\net5.0\Method.genruntimeconfig.cache
