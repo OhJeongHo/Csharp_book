@@ -16,6 +16,9 @@
     <Compile Remove="08.StringParams.cs" />
     <Compile Remove="09.SingleExpression.cs" />
     <Compile Remove="10.GreetingPage.cs" />
+    <Compile Remove="11.OptionalParameter.cs" />
+    <Compile Remove="12.NamedArgument.cs" />
+    <Compile Remove="13.NamedArgument2.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -29,6 +32,9 @@
     <None Include="08.StringParams.cs" />
     <None Include="09.SingleExpression.cs" />
     <None Include="10.GreetingPage.cs" />
+    <None Include="11.OptionalParameter.cs" />
+    <None Include="12.NamedArgument.cs" />
+    <None Include="13.NamedArgument2.cs" />
   </ItemGroup>
 
 </Project>
