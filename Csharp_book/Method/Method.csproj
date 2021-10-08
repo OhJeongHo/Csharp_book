@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -10,6 +10,12 @@
     <Compile Remove="02.MethodPrivate.cs" />
     <Compile Remove="03.RefAndOut.cs" />
     <Compile Remove="04.ParameterRef.cs" />
+    <Compile Remove="05.ParameterOut.cs" />
+    <Compile Remove="06.DateTimeTryParse.cs" />
+    <Compile Remove="07.ParamsDemo.cs" />
+    <Compile Remove="08.StringParams.cs" />
+    <Compile Remove="09.SingleExpression.cs" />
+    <Compile Remove="10.GreetingPage.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,6 +23,12 @@
     <None Include="02.MethodPrivate.cs" />
     <None Include="03.RefAndOut.cs" />
     <None Include="04.ParameterRef.cs" />
+    <None Include="05.ParameterOut.cs" />
+    <None Include="06.DateTimeTryParse.cs" />
+    <None Include="07.ParamsDemo.cs" />
+    <None Include="08.StringParams.cs" />
+    <None Include="09.SingleExpression.cs" />
+    <None Include="10.GreetingPage.cs" />
   </ItemGroup>
 
 </Project>
