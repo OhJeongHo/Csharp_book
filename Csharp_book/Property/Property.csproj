@@ -15,6 +15,26 @@
     <Compile Remove="07.PropertyNote.PropertyNote.cs" />
     <Compile Remove="08.PropertyNote.Car.cs" />
     <Compile Remove="09.PropertyNote.Person.cs" />
+    <Compile Remove="10.ArrowDemo.cs" />
+    <Compile Remove="11.GetterSetter.cs" />
+    <Compile Remove="12.ObjectInitializer.cs" />
+    <Compile Remove="13.ObjectInitializers.cs" />
+    <Compile Remove="14.ObjectInitializerNote.Person.cs" />
+    <Compile Remove="15.ObjectInitializerNote.cs" />
+    <Compile Remove="16.RecordClass.cs" />
+    <Compile Remove="17.NameofInfo.cs" />
+    <Compile Remove="18.NameOfOperator.cs" />
+    <Compile Remove="19.AnonymousType.cs" />
+    <Compile Remove="20.AnonymousType.cs" />
+    <Compile Remove="21.AnonymousClass.cs" />
+    <Compile Remove="22.DuckTyping.cs" />
+    <Compile Remove="23.PropertyValidation.cs" />
+    <Compile Remove="24.PetDemo.cs" />
+    <Compile Remove="25.PropertyPractice.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="25.PropertyPractice.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -27,6 +47,21 @@
     <None Include="07.PropertyNote.PropertyNote.cs" />
     <None Include="08.PropertyNote.Car.cs" />
     <None Include="09.PropertyNote.Person.cs" />
+    <None Include="10.ArrowDemo.cs" />
+    <None Include="11.GetterSetter.cs" />
+    <None Include="12.ObjectInitializer.cs" />
+    <None Include="13.ObjectInitializers.cs" />
+    <None Include="14.ObjectInitializerNote.Person.cs" />
+    <None Include="15.ObjectInitializerNote.cs" />
+    <None Include="16.RecordClass.cs" />
+    <None Include="17.NameofInfo.cs" />
+    <None Include="18.NameOfOperator.cs" />
+    <None Include="19.AnonymousType.cs" />
+    <None Include="20.AnonymousType.cs" />
+    <None Include="21.AnonymousClass.cs" />
+    <None Include="22.DuckTyping.cs" />
+    <None Include="23.PropertyValidation.cs" />
+    <None Include="24.PetDemo.cs" />
   </ItemGroup>
 
 </Project>
