@@ -31,6 +31,7 @@
     <Compile Remove="23.PropertyValidation.cs" />
     <Compile Remove="24.PetDemo.cs" />
     <Compile Remove="25.PropertyPractice.cs" />
+    <Compile Remove="26.NullWithObject.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -62,6 +63,7 @@
     <None Include="22.DuckTyping.cs" />
     <None Include="23.PropertyValidation.cs" />
     <None Include="24.PetDemo.cs" />
+    <None Include="26.NullWithObject.cs" />
   </ItemGroup>
 
 </Project>

@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finalizer", "finalizer\Fina
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method", "Method\Method.csproj", "{7FDF94E6-4121-4197-AFFA-FB0A0BAD25DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Property", "Property\Property.csproj", "{CAF3B8D7-229D-45FE-856F-28F170B76909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Property", "Property\Property.csproj", "{CAF3B8D7-229D-45FE-856F-28F170B76909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer", "Indexer\Indexer.csproj", "{675F8BDF-6BB5-4DDF-AFBF-82401BA94A85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{CAF3B8D7-229D-45FE-856F-28F170B76909}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAF3B8D7-229D-45FE-856F-28F170B76909}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAF3B8D7-229D-45FE-856F-28F170B76909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675F8BDF-6BB5-4DDF-AFBF-82401BA94A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675F8BDF-6BB5-4DDF-AFBF-82401BA94A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675F8BDF-6BB5-4DDF-AFBF-82401BA94A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675F8BDF-6BB5-4DDF-AFBF-82401BA94A85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

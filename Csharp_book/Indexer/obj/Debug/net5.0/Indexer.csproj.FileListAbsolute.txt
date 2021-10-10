@@ -1,0 +1,16 @@
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\bin\Debug\net5.0\Indexer.exe
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\bin\Debug\net5.0\Indexer.deps.json
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.json
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.dev.json
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\bin\Debug\net5.0\Indexer.dll
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\bin\Debug\net5.0\ref\Indexer.dll
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\bin\Debug\net5.0\Indexer.pdb
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\obj\Debug\net5.0\Indexer.csproj.AssemblyReference.cache
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\obj\Debug\net5.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfoInputs.cache
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfo.cs
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\obj\Debug\net5.0\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\obj\Debug\net5.0\Indexer.dll
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\obj\Debug\net5.0\ref\Indexer.dll
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\obj\Debug\net5.0\Indexer.pdb
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Indexer\obj\Debug\net5.0\Indexer.genruntimeconfig.cache
