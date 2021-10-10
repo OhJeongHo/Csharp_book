@@ -11,6 +11,9 @@
     <Compile Remove="03.IndexerNote2.cs" />
     <Compile Remove="04.IndexerNote3.cs" />
     <Compile Remove="05.IndexerNote4.cs" />
+    <Compile Remove="06.NickName.cs" />
+    <Compile Remove="07.NickNameDemo.cs" />
+    <Compile Remove="08.YieldReturn.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -19,6 +22,9 @@
     <None Include="03.IndexerNote2.cs" />
     <None Include="04.IndexerNote3.cs" />
     <None Include="05.IndexerNote4.cs" />
+    <None Include="06.NickName.cs" />
+    <None Include="07.NickNameDemo.cs" />
+    <None Include="08.YieldReturn.cs" />
   </ItemGroup>
 
 </Project>
