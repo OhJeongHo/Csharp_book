@@ -1,0 +1,15 @@
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\bin\Debug\net5.0\Delegate.exe
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\bin\Debug\net5.0\Delegate.deps.json
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\bin\Debug\net5.0\Delegate.dll
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\bin\Debug\net5.0\Delegate.pdb
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\Delegate.dll
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\Delegate.pdb
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache

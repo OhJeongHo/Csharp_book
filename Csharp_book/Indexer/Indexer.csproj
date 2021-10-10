@@ -14,6 +14,11 @@
     <Compile Remove="06.NickName.cs" />
     <Compile Remove="07.NickNameDemo.cs" />
     <Compile Remove="08.YieldReturn.cs" />
+    <Compile Remove="09.YieldDemo.cs" />
+    <Compile Remove="10.IteratorForeach.cs" />
+    <Compile Remove="11.IEnumerableT.cs" />
+    <Compile Remove="12.IEnumerableT2.cs" />
+    <Compile Remove="13.IteratorFibonacci.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,6 +30,11 @@
     <None Include="06.NickName.cs" />
     <None Include="07.NickNameDemo.cs" />
     <None Include="08.YieldReturn.cs" />
+    <None Include="09.YieldDemo.cs" />
+    <None Include="10.IteratorForeach.cs" />
+    <None Include="11.IEnumerableT.cs" />
+    <None Include="12.IEnumerableT2.cs" />
+    <None Include="13.IteratorFibonacci.cs" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01.Info.cs" />
+    <Compile Remove="02.DelegateDemo.cs" />
+    <Compile Remove="03.DelegateNote.cs" />
+    <Compile Remove="04.DelegateGetArea.cs" />
+    <Compile Remove="05.AnonymousDelegate.cs" />
+    <Compile Remove="06.FunctionPointer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01.Info.cs" />
+    <None Include="02.DelegateDemo.cs" />
+    <None Include="03.DelegateNote.cs" />
+    <None Include="04.DelegateGetArea.cs" />
+    <None Include="05.AnonymousDelegate.cs" />
+    <None Include="06.FunctionPointer.cs" />
+  </ItemGroup>
+
+</Project>
