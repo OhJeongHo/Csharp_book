@@ -13,3 +13,4 @@ C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\D
 C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\ref\Delegate.dll
 C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\Delegate.pdb
 C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache
+C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\obj\Debug\net5.0\Delegate.csproj.AssemblyReference.cache
