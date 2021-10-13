@@ -13,6 +13,15 @@
     <Compile Remove="05.AnonymousDelegate.cs" />
     <Compile Remove="06.FunctionPointer.cs" />
     <Compile Remove="07.DelegatePractice.cs" />
+    <Compile Remove="08.AnonymousMethod.cs" />
+    <Compile Remove="09.DelegateInfo.cs" />
+    <Compile Remove="10.DelegateLambda.cs" />
+    <Compile Remove="11.DelegateParameter.cs" />
+    <Compile Remove="12.DelegateLambda2.cs" />
+    <Compile Remove="13.FuncDemo.cs" />
+    <Compile Remove="14.FuncDelegate.cs" />
+    <Compile Remove="15.PredicateDemo.cs" />
+    <Compile Remove="16.PassMethodAsParameter.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,6 +32,15 @@
     <None Include="05.AnonymousDelegate.cs" />
     <None Include="06.FunctionPointer.cs" />
     <None Include="07.DelegatePractice.cs" />
+    <None Include="08.AnonymousMethod.cs" />
+    <None Include="09.DelegateInfo.cs" />
+    <None Include="10.DelegateLambda.cs" />
+    <None Include="11.DelegateParameter.cs" />
+    <None Include="12.DelegateLambda2.cs" />
+    <None Include="13.FuncDemo.cs" />
+    <None Include="14.FuncDelegate.cs" />
+    <None Include="15.PredicateDemo.cs" />
+    <None Include="16.PassMethodAsParameter.cs" />
   </ItemGroup>
 
 </Project>
