@@ -1,0 +1,16 @@
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\bin\Debug\net5.0\Interface.exe
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\bin\Debug\net5.0\Interface.deps.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\bin\Debug\net5.0\Interface.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\bin\Debug\net5.0\ref\Interface.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\bin\Debug\net5.0\Interface.pdb
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\obj\Debug\net5.0\Interface.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\obj\Debug\net5.0\ref\Interface.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\obj\Debug\net5.0\Interface.pdb
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Interface\obj\Debug\net5.0\Interface.csproj.AssemblyReference.cache
