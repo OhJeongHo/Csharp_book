@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01.InheritanceDemo.cs" />
+    <Compile Remove="02.IsAn.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01.InheritanceDemo.cs" />
+    <None Include="02.IsAn.cs" />
+  </ItemGroup>
+
+</Project>

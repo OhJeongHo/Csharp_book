@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass", "PartialClass\PartialClass.csproj", "{B5B8FFAA-B654-4676-9E51-7899E018EE98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{3203C549-F4B3-4D0D-AC7B-02F5F418C9EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{B5B8FFAA-B654-4676-9E51-7899E018EE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5B8FFAA-B654-4676-9E51-7899E018EE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5B8FFAA-B654-4676-9E51-7899E018EE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3203C549-F4B3-4D0D-AC7B-02F5F418C9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3203C549-F4B3-4D0D-AC7B-02F5F418C9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3203C549-F4B3-4D0D-AC7B-02F5F418C9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3203C549-F4B3-4D0D-AC7B-02F5F418C9EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

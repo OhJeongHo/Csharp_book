@@ -1,0 +1,15 @@
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\bin\Debug\net5.0\Inheritance.exe
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
