@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jAsI5+AgNmL7uJ6sEFJ3QjcREPItbSR9P5unKhuVJzpwVkdjfR1+j9DG+tIdXJu4BAQ0IiHdxmGDBO0bp/nMiw==",
+  "dgSpecHash": "MoCkEnVqbrcJHqE3qZkoa1Mz4+stQoXCWdNSIK80tHjKV6SvJSAdnq/SC6/VCvUWUantRM2PT5pcGhWa3hGpAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\오정호\\Documents\\Csharp_book\\Csharp_book\\TryCatch\\Exception_handling.csproj",
+  "projectFilePath": "C:\\Users\\oh509\\Documents\\GitHub\\Csharp_book\\Csharp_book\\TryCatch\\Exception_handling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

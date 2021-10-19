@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\오정호\\Documents\\Csharp_book\\Csharp_book\\Property\\Property.csproj": {}
+    "C:\\Users\\oh509\\Documents\\GitHub\\Csharp_book\\Csharp_book\\Property\\Property.csproj": {}
   },
   "projects": {
-    "C:\\Users\\오정호\\Documents\\Csharp_book\\Csharp_book\\Property\\Property.csproj": {
+    "C:\\Users\\oh509\\Documents\\GitHub\\Csharp_book\\Csharp_book\\Property\\Property.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\오정호\\Documents\\Csharp_book\\Csharp_book\\Property\\Property.csproj",
+        "projectUniqueName": "C:\\Users\\oh509\\Documents\\GitHub\\Csharp_book\\Csharp_book\\Property\\Property.csproj",
         "projectName": "Property",
-        "projectPath": "C:\\Users\\오정호\\Documents\\Csharp_book\\Csharp_book\\Property\\Property.csproj",
-        "packagesPath": "C:\\Users\\오정호\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\오정호\\Documents\\Csharp_book\\Csharp_book\\Property\\obj\\",
+        "projectPath": "C:\\Users\\oh509\\Documents\\GitHub\\Csharp_book\\Csharp_book\\Property\\Property.csproj",
+        "packagesPath": "C:\\Users\\oh509\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oh509\\Documents\\GitHub\\Csharp_book\\Csharp_book\\Property\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\오정호\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oh509\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

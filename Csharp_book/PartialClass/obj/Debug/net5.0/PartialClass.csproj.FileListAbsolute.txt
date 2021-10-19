@@ -1,0 +1,15 @@
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\bin\Debug\net5.0\PartialClass.exe
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\bin\Debug\net5.0\PartialClass.deps.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\bin\Debug\net5.0\PartialClass.runtimeconfig.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\bin\Debug\net5.0\PartialClass.runtimeconfig.dev.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\bin\Debug\net5.0\PartialClass.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\bin\Debug\net5.0\ref\PartialClass.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\bin\Debug\net5.0\PartialClass.pdb
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\obj\Debug\net5.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\obj\Debug\net5.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\obj\Debug\net5.0\PartialClass.AssemblyInfo.cs
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\obj\Debug\net5.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\obj\Debug\net5.0\PartialClass.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\obj\Debug\net5.0\ref\PartialClass.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\obj\Debug\net5.0\PartialClass.pdb
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\PartialClass\obj\Debug\net5.0\PartialClass.genruntimeconfig.cache

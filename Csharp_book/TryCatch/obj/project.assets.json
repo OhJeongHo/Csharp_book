@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\오정호\\.nuget\\packages\\": {}
+    "C:\\Users\\oh509\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\오정호\\Documents\\Csharp_book\\Csharp_book\\TryCatch\\Exception_handling.csproj",
+      "projectUniqueName": "C:\\Users\\oh509\\Documents\\GitHub\\Csharp_book\\Csharp_book\\TryCatch\\Exception_handling.csproj",
       "projectName": "Exception_handling",
-      "projectPath": "C:\\Users\\오정호\\Documents\\Csharp_book\\Csharp_book\\TryCatch\\Exception_handling.csproj",
-      "packagesPath": "C:\\Users\\오정호\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\오정호\\Documents\\Csharp_book\\Csharp_book\\TryCatch\\obj\\",
+      "projectPath": "C:\\Users\\oh509\\Documents\\GitHub\\Csharp_book\\Csharp_book\\TryCatch\\Exception_handling.csproj",
+      "packagesPath": "C:\\Users\\oh509\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oh509\\Documents\\GitHub\\Csharp_book\\Csharp_book\\TryCatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\오정호\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oh509\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

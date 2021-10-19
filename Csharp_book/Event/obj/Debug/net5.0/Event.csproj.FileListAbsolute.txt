@@ -1,0 +1,15 @@
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\bin\Debug\net5.0\Event.exe
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\bin\Debug\net5.0\Event.deps.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\bin\Debug\net5.0\Event.runtimeconfig.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\bin\Debug\net5.0\Event.runtimeconfig.dev.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\bin\Debug\net5.0\Event.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\bin\Debug\net5.0\ref\Event.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\bin\Debug\net5.0\Event.pdb
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\obj\Debug\net5.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\obj\Debug\net5.0\Event.AssemblyInfoInputs.cache
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\obj\Debug\net5.0\Event.AssemblyInfo.cs
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\obj\Debug\net5.0\Event.csproj.CoreCompileInputs.cache
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\obj\Debug\net5.0\Event.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\obj\Debug\net5.0\ref\Event.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\obj\Debug\net5.0\Event.pdb
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Event\obj\Debug\net5.0\Event.genruntimeconfig.cache

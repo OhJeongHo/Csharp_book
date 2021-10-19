@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Delegate
-build_property.ProjectDir = C:\Users\오정호\Documents\Csharp_book\Csharp_book\Delegate\
+build_property.ProjectDir = C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Delegate\
