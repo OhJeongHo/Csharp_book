@@ -13,6 +13,10 @@
     <Compile Remove="05.InterfaceDemo.cs" />
     <Compile Remove="06.InterfaceInheritance.cs" />
     <Compile Remove="07.InterfaceExplicit.cs" />
+    <Compile Remove="08.ListOfChildToListOfParent.cs" />
+    <Compile Remove="09.IEnumeratorDemo.cs" />
+    <Compile Remove="10.IDisposableDemo.cs" />
+    <Compile Remove="11.InterfaceFriend.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,6 +27,10 @@
     <None Include="05.InterfaceDemo.cs" />
     <None Include="06.InterfaceInheritance.cs" />
     <None Include="07.InterfaceExplicit.cs" />
+    <None Include="08.ListOfChildToListOfParent.cs" />
+    <None Include="09.IEnumeratorDemo.cs" />
+    <None Include="10.IDisposableDemo.cs" />
+    <None Include="11.InterfaceFriend.cs" />
   </ItemGroup>
 
 </Project>
