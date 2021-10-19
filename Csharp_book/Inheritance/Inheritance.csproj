@@ -13,6 +13,11 @@
     <Compile Remove="05.BaseKeyword.cs" />
     <Compile Remove="06.ConstructorInheritance.cs" />
     <Compile Remove="07.AbstractClassInfo.cs" />
+    <Compile Remove="08.AbstractDemo1.cs" />
+    <Compile Remove="09.AbstractDemo2.cs" />
+    <Compile Remove="10.AbstractSample.cs" />
+    <Compile Remove="11.AbstractSample2.cs" />
+    <Compile Remove="12.FieldHiding.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,6 +28,11 @@
     <None Include="05.BaseKeyword.cs" />
     <None Include="06.ConstructorInheritance.cs" />
     <None Include="07.AbstractClassInfo.cs" />
+    <None Include="08.AbstractDemo1.cs" />
+    <None Include="09.AbstractDemo2.cs" />
+    <None Include="10.AbstractSample.cs" />
+    <None Include="11.AbstractSample2.cs" />
+    <None Include="12.FieldHiding.cs" />
   </ItemGroup>
 
 </Project>
