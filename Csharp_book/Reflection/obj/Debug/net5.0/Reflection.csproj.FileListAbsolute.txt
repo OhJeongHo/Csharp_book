@@ -1,0 +1,15 @@
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\bin\Debug\net5.0\Reflection.exe
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\bin\Debug\net5.0\Reflection.deps.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\bin\Debug\net5.0\Reflection.runtimeconfig.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\bin\Debug\net5.0\Reflection.runtimeconfig.dev.json
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\bin\Debug\net5.0\Reflection.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\bin\Debug\net5.0\ref\Reflection.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\bin\Debug\net5.0\Reflection.pdb
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\obj\Debug\net5.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\obj\Debug\net5.0\Reflection.AssemblyInfoInputs.cache
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\obj\Debug\net5.0\Reflection.AssemblyInfo.cs
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\obj\Debug\net5.0\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\obj\Debug\net5.0\Reflection.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\obj\Debug\net5.0\ref\Reflection.dll
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\obj\Debug\net5.0\Reflection.pdb
+C:\Users\oh509\Documents\GitHub\Csharp_book\Csharp_book\Reflection\obj\Debug\net5.0\Reflection.genruntimeconfig.cache
