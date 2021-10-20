@@ -49,11 +49,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Override", "Override\Overri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{1EB66E0F-7454-4221-A0EA-A0700DAB4CED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attribute", "Attribute\Attribute.csproj", "{18EF390B-E0CA-454C-87E8-730F76751D71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attribute", "Attribute\Attribute.csproj", "{18EF390B-E0CA-454C-87E8-730F76751D71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{08351FBF-210F-45E6-98CE-882CABE4FCC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflection", "Reflection\Reflection.csproj", "{08351FBF-210F-45E6-98CE-882CABE4FCC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{8D64AE0E-7940-43E7-8BB2-51AAE1188917}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{8D64AE0E-7940-43E7-8BB2-51AAE1188917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{C3FC01CB-1800-4B32-9C23-5FAEDB25545F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{8D64AE0E-7940-43E7-8BB2-51AAE1188917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D64AE0E-7940-43E7-8BB2-51AAE1188917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D64AE0E-7940-43E7-8BB2-51AAE1188917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3FC01CB-1800-4B32-9C23-5FAEDB25545F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FC01CB-1800-4B32-9C23-5FAEDB25545F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FC01CB-1800-4B32-9C23-5FAEDB25545F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FC01CB-1800-4B32-9C23-5FAEDB25545F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
